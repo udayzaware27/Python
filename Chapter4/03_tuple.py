@@ -8,5 +8,5 @@ print(t[1:4])
 
 print(t.count(44)) #return number of occurances
 
-print(t.index("orange")) #return index of element
+print(t.index("orange")) #return index of element in tuple
 
